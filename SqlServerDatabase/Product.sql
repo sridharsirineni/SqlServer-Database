@@ -4,5 +4,6 @@
     [Name] VARCHAR(50) NULL, 
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL,
-    [Gender] NVARCHAR(50) NULL
+    [Gender] NVARCHAR(50) NULL,
+    [Religion] NVARCHAR(10) NULL	
 )
